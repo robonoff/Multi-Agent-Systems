@@ -9,8 +9,7 @@ This project solves a parameter synthesis problem for a Continuous-Time Markov C
 ## Structure
 - `src/ctmc.py`: functions for Q-matrix, probabilities, and plotting.
 - `notebooks/01_ctmc_synthesis.ipynb`: main exploration and results.
-- `report/main.tex`: final write-up (with plots).
-- `report/figs/`: generated figures.
+- `report`
 
 ## Run
 ```bash
