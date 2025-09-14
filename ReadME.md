@@ -26,6 +26,17 @@ Continuous-Time Markov Chain parameter synthesis tools and analysis.
 - Parameter synthesis algorithms
 - Jupyter notebook for interactive analysis
 
+## Key features
+- **Symbolic solution**: closed-form expression for reachability of state C.
+- **Numerical validation**: Matrix exponential computations `scipy.linalg.expm`.
+- **Plots**: feasible regions of (r, s), sensitivity curves, and comparison symbolic vs numeric.
+
+**Results:**
+- Analytical reachability formula derived and validated
+- Symbolic vs numerical solutions match within precision
+- Feasible parameter regions identified and visualized
+- Convergence verification completed successfully
+
 
 ### 2. Prisoner Protocol Simulation (`lts_behavior/`)
 

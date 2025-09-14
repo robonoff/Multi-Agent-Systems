@@ -11,10 +11,14 @@ This project solves a parameter synthesis problem for a Continuous-Time Markov C
 - `notebook/ctmc_synthesis.ipynb`: main exploration and results.
 - `CTMC.pdf`: theoretical background and formal specification.
 
-## Key Results
-- **Symbolic solution**: Closed-form expression for P(X(t) = C) derived analytically
-- **Numerical validation**: Matrix exponential computations using scipy
-- **Parameter feasibility**: Identified valid regions for (r, s) parameter space
-- **Sensitivity analysis**: Performance curves showing parameter impact on reachability
-- **Convergence verification**: Symbolic vs numerical solutions match within numerical precision
+## Key features
+- **Symbolic solution**: closed-form expression for reachability of state C.
+- **Numerical validation**: Matrix exponential computations `scipy.linalg.expm`.
+- **Plots**: feasible regions of (r, s), sensitivity curves, and comparison symbolic vs numeric.
+
+**Results:**
+- Analytical reachability formula derived and validated
+- Symbolic vs numerical solutions match within precision
+- Feasible parameter regions identified and visualized
+- Convergence verification completed successfully
 
