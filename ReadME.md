@@ -63,7 +63,6 @@ pip install -r requirements.txt
 1.**CTMC Analysis:**
 ```bash
 cd ctmc_parameter_synthesis/
-pip install -r requirements.txt
 jupyter notebook notebook/ctmc_synthesis.ipynb
 ```
 
