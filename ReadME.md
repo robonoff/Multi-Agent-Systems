@@ -46,7 +46,12 @@ A Monte Carlo simulation study comparing different prisoner signaling protocols 
 
 
 ## Prerequisites
-Please, use the same virtual environment for both the notebooks. 
+Create a virtual environment:
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
 
 ```bash
 # Python 3.8+
