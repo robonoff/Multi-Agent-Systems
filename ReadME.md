@@ -1,6 +1,6 @@
-# Multi-Agent Systems
+# Multi-Agent Systems - exam project 2024-205
 
-A comprehensive repository containing various multi-agent system simulations, project developed for the Multi Agents Systems course held at University of Trieste by professors Tatjana Petrov and Tommaso Padoan.
+A comprehensive repository containing various multi-agent system simulations, project developed for the Multi Agents Systems course held at University of Trieste by professors Tatjana Petrov and Tommaso Padoan. The contributors to this project are  [@Tanja Derin] ([https://www.github.com/username](https://github.com/tanjaderin)) & [@Roberta Lamberti](https://github.com/robonoff)
 
 ## 📁 Project Structure
 
