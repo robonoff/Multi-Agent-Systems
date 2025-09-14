@@ -1,0 +1,13 @@
+# Documents 
+
+papers/
+pics/
+
+# python cache
+
+__pycache__/
+
+# virtual environments
+
+.venv/
+
