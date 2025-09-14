@@ -67,6 +67,6 @@ cd lts_behavior/
 jupyter notebook prison_simulation.ipynb
 ```
 
-## 📄 License
+## License
 
 This project is open source and available under standard academic use terms.
