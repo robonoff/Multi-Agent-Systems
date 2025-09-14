@@ -6,14 +6,14 @@ A comprehensive repository containing various multi-agent system simulations, pr
 
 ```
 Multi-Agent-Systems/
-├── lts_behavior/                    # LTS behavior analysis and simulations
-│   └── prison_simulation.ipynb     # Prisoner protocol Monte Carlo simulation
 ├── ctmc_parameter_synthesis/        # CTMC parameter synthesis studies
 │   ├── notebook/
 │   │   └── ctmc_synthesis.ipynb    # CTMC parameter synthesis notebook
 │   ├── src/
 │   │   └── ctmc.py                 # CTMC implementation
 │   └── requirements.txt            # Python dependencies
+├── lts_behavior/                    # LTS behavior analysis and simulations
+│   └── prison_simulation.ipynb     # Prisoner protocol Monte Carlo simulation
 ```
 
 
