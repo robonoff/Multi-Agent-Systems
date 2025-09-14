@@ -50,11 +50,12 @@ Please, use the same virtual environment for both the notebooks.
 
 ```bash
 # Python 3.8+
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
 
 ### Running the Simulations
 
-1. **CTMC Analysis:**
+1.**CTMC Analysis:**
 ```bash
 cd ctmc_parameter_synthesis/
 pip install -r requirements.txt
