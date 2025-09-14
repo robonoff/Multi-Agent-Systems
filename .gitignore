@@ -6,6 +6,7 @@ pics/
 # python cache
 
 __pycache__/
+ctmc_parameter_synthesis/__pycache__/
 
 # virtual environments
 
