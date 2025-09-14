@@ -8,6 +8,13 @@ This project solves a parameter synthesis problem for a Continuous-Time Markov C
 
 ## Structure
 - `src/ctmc.py`: functions for Q-matrix, probabilities, and plotting.
-- `notebooks/01_ctmc_synthesis.ipynb`: main exploration and results.
-- `report`: CTMC.pdf
+- `notebook/ctmc_synthesis.ipynb`: main exploration and results.
+- `CTMC.pdf`: theoretical background and formal specification.
+
+## Key Results
+- **Symbolic solution**: Closed-form expression for P(X(t) = C) derived analytically
+- **Numerical validation**: Matrix exponential computations using scipy
+- **Parameter feasibility**: Identified valid regions for (r, s) parameter space
+- **Sensitivity analysis**: Performance curves showing parameter impact on reachability
+- **Convergence verification**: Symbolic vs numerical solutions match within numerical precision
 
