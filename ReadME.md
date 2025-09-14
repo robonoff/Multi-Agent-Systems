@@ -17,7 +17,7 @@ Multi-Agent-Systems/
 ```
 
 
-### 1. CTMC Parameter Synthesis (`ctmc_parameter_synthesis/`)
+## 1. CTMC Parameter Synthesis (`ctmc_parameter_synthesis/`)
 
 Continuous-Time Markov Chain parameter synthesis tools and analysis.
 
@@ -26,7 +26,7 @@ Continuous-Time Markov Chain parameter synthesis tools and analysis.
 - Parameter synthesis algorithms
 - Jupyter notebook for interactive analysis
 
-## Key features
+### Key features
 - **Symbolic solution**: closed-form expression for reachability of state C.
 - **Numerical validation**: Matrix exponential computations `scipy.linalg.expm`.
 - **Plots**: feasible regions of (r, s), sensitivity curves, and comparison symbolic vs numeric.
@@ -38,7 +38,7 @@ Continuous-Time Markov Chain parameter synthesis tools and analysis.
 - Convergence verification completed successfully
 
 
-### 2. Prisoner Protocol Simulation (`lts_behavior/`)
+## 2. Prisoner Protocol Simulation (`lts_behavior/`)
 
 A Monte Carlo simulation study comparing different prisoner signaling protocols based on formal LTS specifications.
 
